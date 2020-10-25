@@ -11,7 +11,7 @@ public class Main {
         chislo(517);
         chislo(34);
         chislo(8297);
-        chislo(499);
+        chislo(750);
     }
     static void chislo (int a) {
         if (a > 99 && a <= 999) {
